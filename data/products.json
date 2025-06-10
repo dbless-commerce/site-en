@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "name": "Sample Cheese 500g",
+      "url": "sample-cheese-500g",
+      "price": 100,
+      "shortDesc": "A classic semi-hard cheese in a convenient 500g package. Perfect for daily use and recipes.",
+      "metaDesc": "Crafted with care, our Sample Cheese offers a creamy texture and a balanced aroma, making it a versatile choice for any table.",
+      "keywords": "cheese, dairy, semi-hard cheese, 500g cheese, traditional cheese, organic cheese, natural fermentation, artisan cheese, healthy snack, probiotic cheese",
+      "longDesc": [
+        "Sample Cheese is made from fresh milk sourced from local farms, ensuring quality and freshness in every bite.",
+        "Aged for several months, this cheese develops a rich, characteristic flavor and a slightly tangy finish.",
+        "Its creamy texture and mild bitterness create a memorable taste experience.",
+        "Seasonal variations in the milk impart subtle differences in each batch, making this an artisanal product.",
+        "Beloved by locals and increasingly recognized by gourmet chefs worldwide.",
+        "Rich in protein, calcium, and healthy fats, it is both delicious and nutritious.",
+        "Best enjoyed at room temperature with fresh bread, fruits, or honey.",
+        "Natural fermentation during aging fosters a probiotic microflora that supports digestion.",
+        "The 500g package is ideal for table use and culinary creations."
+      ]
+    },
+    {
+      "id": "p002",
+      "name": "Classic Honey 250g",
+      "url": "classic-honey-250g",
+      "price": 80,
+      "shortDesc": "Pure, golden honey in a 250g glass jar. A natural sweetener for your favorite foods and drinks.",
+      "metaDesc": "Harvested from wildflowers, our Classic Honey retains all its natural goodness, offering a sweet and floral aroma.",
+      "keywords": "honey, natural sweetener, pure honey, 250g honey, wildflower honey, organic honey, raw honey, artisan honey, healthy sweetener, antioxidant honey",
+      "longDesc": [
+        "Classic Honey is collected from bees that forage on a variety of wildflowers, resulting in a complex, multifaceted flavor.",
+        "It is unfiltered and unpasteurized, preserving natural enzymes and nutrients.",
+        "Its smooth, viscous consistency and floral notes make it a favorite for all ages.",
+        "Every harvest reflects the unique flora of the season, giving each jar a distinct character.",
+        "A staple in traditional diets and increasingly popular among health-conscious consumers.",
+        "Packed with natural antioxidants, vitamins, and minerals for a healthy addition to your diet.",
+        "Enjoy as a spread, in tea, or drizzled over yogurt and desserts.",
+        "Raw honey supports digestive health thanks to its prebiotic properties.",
+        "The 250g glass jar is perfect for everyday use and makes a thoughtful gift."
+      ]
+    }
+  ]
+}
