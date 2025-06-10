@@ -1,3 +1,71 @@
 {
-  "slogan": "..."
+  "pages": {
+    "index": {
+      "title": "The Company | Excellence in Authentic Taste",
+      "description": "Welcome to The Company, where tradition meets quality. Explore a wide range of authentic and natural products crafted for your table.",
+      "keywords": "the company, natural foods, authentic products, quality ingredients, artisan foods, traditional taste"
+    },
+    "products": {
+      "title": "Discover Our Selection | The Company Products",
+      "description": "Browse our carefully curated catalog of high-quality foods and specialty items, each selected for its unique character and taste.",
+      "keywords": "premium foods, product catalog, artisan selection, traditional foods, gourmet items, specialty products"
+    },
+    "about-us": {
+      "title": "About Us | The Company Values",
+      "description": "Learn more about The Company’s journey, philosophy, and dedication to delivering trustworthy quality and exceptional service.",
+      "keywords": "company story, brand values, our mission, trusted service, food excellence, heritage"
+    },
+    "personal-data-protection": {
+      "title": "Personal Data Protection | The Company Privacy Details",
+      "description": "Your privacy is important to us. Review how The Company handles and safeguards your personal information in accordance with legal standards.",
+      "keywords": "data protection, privacy policy, personal information security, compliance, customer privacy"
+    },
+    "sales-agreement": {
+      "title": "Distance Sales Agreement | The Company Legal Terms",
+      "description": "Read The Company’s distance sales agreement for clear information on your rights and our responsibilities during any purchase process.",
+      "keywords": "sales agreement, consumer rights, legal terms, purchase conditions, customer agreement"
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy | The Company Legal Information",
+      "description": "Find out how The Company collects, uses, and protects your data when you visit our website or interact with our services.",
+      "keywords": "privacy policy, data usage, information security, user privacy, website privacy"
+    },
+    "contact": {
+      "title": "Contact Us | The Company Communication",
+      "description": "Reach out to The Company for inquiries, feedback, or support. Our team is happy to assist you with any questions.",
+      "keywords": "contact, customer service, support, communication, feedback, inquiry"
+    },
+    "site-map": {
+      "title": "Site Map | The Company Navigation Guide",
+      "description": "Easily navigate The Company website with our comprehensive site map. Access all major sections and find what you need quickly.",
+      "keywords": "site map, website navigation, guide, page index, structure"
+    },
+    "404": {
+      "title": "404 - Page Not Found | The Company",
+      "description": "Sorry, the page you’re looking for can’t be found. Please use our site navigation or return to the homepage.",
+      "keywords": "page not found, error, 404"
+    }
+  },
+  "mainNav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Products", "href": "/products.html" },
+    { "label": "About", "href": "/about.html" },
+    { "label": "Contact", "href": "/contact.html" }
+  ],
+  "footerLinks": [
+    { "label": "Distance Sales Agreement", "href": "/sales-agreement.html" },
+    { "label": "Personal Data Protection Notice", "href": "/personal-data-protection.html" },
+    { "label": "Privacy Policy", "href": "/privacy-policy.html" },
+    { "label": "Site Map", "href": "/site-map.html" }
+  ],
+  "currency": "$",
+  "basketInstruction": "After adding your products to the basket, click the 'Send Your Order via WhatsApp' button to quickly send your order and shipping information to us and complete your shopping with ease.",
+  "headerSloganLine1": "We bring the traditional flavors of Anatolia",
+  "headerSloganLine2": "to your table with a modern touch.",
+  "footerSloganLine1": "We cherish the abundance of Erzincan's lands",
+  "footerSloganLine2": "by embracing a contemporary culinary philosophy.",
+  "headerSloganBtnText": "Explore Products",
+  "headerSloganBtnLink": "/products.html",
+  "footerSloganBtnText": "Our Flavor Story",
+  "footerSloganBtnLink": "/about.html"
 }
