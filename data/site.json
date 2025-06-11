@@ -15,30 +15,37 @@
       "description": "Learn more about The Company’s journey, philosophy, and dedication to delivering trustworthy quality and exceptional service.",
       "keywords": "company story, brand values, our mission, trusted service, food excellence, heritage"
     },
-    "personal-data-protection": {
-      "title": "Personal Data Protection | The Company Privacy Details",
-      "description": "Your privacy is important to us. Review how The Company handles and safeguards your personal information in accordance with legal standards.",
-      "keywords": "data protection, privacy policy, personal information security, compliance, customer privacy"
-    },
-    "sales-agreement": {
-      "title": "Distance Sales Agreement | The Company Legal Terms",
-      "description": "Read The Company’s distance sales agreement for clear information on your rights and our responsibilities during any purchase process.",
-      "keywords": "sales agreement, consumer rights, legal terms, purchase conditions, customer agreement"
-    },
-    "privacy-policy": {
-      "title": "Privacy Policy | The Company Legal Information",
-      "description": "Find out how The Company collects, uses, and protects your data when you visit our website or interact with our services.",
-      "keywords": "privacy policy, data usage, information security, user privacy, website privacy"
-    },
     "contact": {
       "title": "Contact Us | The Company Communication",
       "description": "Reach out to The Company for inquiries, feedback, or support. Our team is happy to assist you with any questions.",
       "keywords": "contact, customer service, support, communication, feedback, inquiry"
     },
+    "personal-data-protection": {
+      "url": "kvkk",
+      "title": "Personal Data Protection Information Notice",
+      "description": "Your privacy is important to us. Review how The Company processes and protects your personal information in accordance with legal standards.",
+      "keywords": "data protection, privacy policy, personal information security, compliance, customer privacy",
+      "showOnFooter": true
+    },
+    "sales-agreement": {
+      "url": "satis-sozlesmesi",
+      "title": "Remote Sales Agreement",
+      "description": "Read The Company's remote sales agreement to get clear information about your rights and our responsibilities in your shopping process.",
+      "keywords": "sales agreement, consumer rights, legal terms, shopping conditions, customer agreement",
+      "showOnFooter": true
+    },
+    "privacy-policy": {
+      "url": "gizlilik-politikasi",
+      "title": "Privacy Policy",
+      "description": "Learn how we collect, use, and protect your data when you visit The Company website or interact with our services.",
+      "keywords": "privacy policy, data usage, information security, user privacy, website privacy",
+      "showOnFooter": true
+    },
     "site-map": {
-      "title": "Site Map | The Company Navigation Guide",
-      "description": "Easily navigate The Company website with our comprehensive site map. Access all major sections and find what you need quickly.",
-      "keywords": "site map, website navigation, guide, page index, structure"
+      "title": "Site Map",
+      "description": "Use our comprehensive site map to easily access all main sections on The Company website.",
+      "keywords": "site map, website navigation, guide, page index, structure",
+      "showOnFooter": true
     },
     "404": {
       "title": "404 - Page Not Found | The Company",
@@ -47,16 +54,40 @@
     }
   },
   "mainNav": [
-    { "label": "Home", "href": "/" },
-    { "label": "Products", "href": "/products.html" },
-    { "label": "About", "href": "/about.html" },
-    { "label": "Contact", "href": "/contact.html" }
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Products",
+      "href": "/products.html"
+    },
+    {
+      "label": "About",
+      "href": "/about.html"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact.html"
+    }
   ],
   "footerLinks": [
-    { "label": "Distance Sales Agreement", "href": "/sales-agreement.html" },
-    { "label": "Personal Data Protection Notice", "href": "/personal-data-protection.html" },
-    { "label": "Privacy Policy", "href": "/privacy-policy.html" },
-    { "label": "Site Map", "href": "/site-map.html" }
+    {
+      "label": "Distance Sales Agreement",
+      "href": "/sales-agreement.html"
+    },
+    {
+      "label": "Personal Data Protection Notice",
+      "href": "/personal-data-protection.html"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/privacy-policy.html"
+    },
+    {
+      "label": "Site Map",
+      "href": "/site-map.html"
+    }
   ],
   "currency": "$",
   "basketInstruction": "After adding your products to the basket, click the 'Send Your Order via WhatsApp' button to quickly send your order and shipping information to us and complete your shopping with ease.",
